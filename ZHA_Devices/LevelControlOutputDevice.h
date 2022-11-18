@@ -37,7 +37,7 @@ public:
 
 
 private:
-    BasicCluster basic_clsuter;
+    BasicCluster basic_cluster;
     IdentifyCluster identify_cluster;
     OnOffCluster onoff_cluster;
     GroupsCluster groups_cluster;
